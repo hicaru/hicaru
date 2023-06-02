@@ -33,10 +33,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hicaru&show_icons=true&locale=en&layout=compact" alt="hicaru" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api?username=hicaru&show_icons=true&locale=en" alt="hicaru" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hicaru&show_icons=true&theme=radical" alt="hicaru" />
 </a>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hicaru&repo=scripts&layout=compact)](https://github.com/hicaru/scripts)
