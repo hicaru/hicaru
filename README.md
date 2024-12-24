@@ -47,13 +47,13 @@
 
 <h3 align="center">📊 My Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicaru&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="hicaru" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicaru&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&include_orgs=true&count_private=true" alt="hicaru" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hicaru&show_icons=true&theme=github_dark&hide_border=true" alt="hicaru" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hicaru&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&include_orgs=true" alt="hicaru" /></p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hicaru&theme=darkhub&column=6&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Stars,Followers,Experience,Repositories,Commits" alt="hicaru" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hicaru&theme=darkhub&column=6&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Stars,Followers,Experience,Repositories,Commits&include_orgs=true" alt="hicaru" />
   </a>
 </p>
 
