@@ -57,8 +57,3 @@
   </a>
 </p>
 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hicaru&repo=CyShop&layout=compact)](https://github.com/ClassmateLin/CyShop)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hicaru&repo=ShopeeHelper&layout=compact)](https://github.com/hicaru/ShopeeHelper) -->
