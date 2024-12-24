@@ -57,9 +57,3 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/bearby-wallet/bearby-web3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=organization-name&repo=repo-name&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
