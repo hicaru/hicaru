@@ -47,17 +47,16 @@
 
 <h3 align="center">📊 My Stats:</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hicaru&show_icons=true&theme=radical" alt="hicaru" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicaru&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="hicaru" /></p>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hicaru&repo=scripts&layout=compact)](https://github.com/hicaru/scripts)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hicaru&show_icons=true&theme=github_dark&hide_border=true" alt="hicaru" /></p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hicaru&theme=darkhub&column=6&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Stars,Followers,Experience,Repositories,Commits" alt="hicaru" />
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hicaru&repo=video-downloader&layout=compact)](https://github.com/hicaru/video-downloader)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hicaru&repo=proxy_pool&layout=compact)](https://github.com/hicaru/proxy_pool)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hicaru&repo=CyShop&layout=compact)](https://github.com/ClassmateLin/CyShop)
